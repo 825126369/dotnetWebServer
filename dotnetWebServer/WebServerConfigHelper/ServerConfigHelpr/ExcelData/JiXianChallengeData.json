@@ -1,0 +1,33 @@
+{
+    "mActivityDataList": [
+        {
+            "Id": 1,
+            "challengeId": 1001,
+            "challengeName": "极限挑战",
+            "songId": [ "70025", "70025", "70025", "70025", "70025" ],
+            "songDifficult": [ "Easy", "Easy", "Easy", "Easy", "Easy" ],
+            "coverName": "UI_poster_LX.png",
+            "sceneName": "YesOkEnviroment",
+            "HP": 100,
+            "HPCoefficient2": [ 1, 2, 3, 4, 5 ],
+            "challengeRulesId": 1,
+            "activityBeginTime": "2022/02/18 12:00:00",
+            "activityEndTime": "2022/02/19 12:00:00"
+        },
+        {
+            "Id": 2,
+            "challengeId": 1002,
+            "challengeName": "极限13131313",
+            "songId": [ "70026", "70022", "70023", "70024"],
+            "songDifficult": [ "Easy", "Easy", "Easy", "Easy", "Easy" ],
+            "coverName": "UI_poster_LX.png",
+            "sceneName": "XiAnEnviroment",
+            "HP": 200,
+            "HPCoefficient2": [ 5, 4, 3, 2, 1 ],
+            "challengeRulesId": 1,
+            "activityBeginTime": "2022/02/19 12:00:00",
+            "activityEndTime": "2022/03/27 23:59:59"
+        }
+    ]
+
+}
